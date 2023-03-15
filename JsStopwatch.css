@@ -1,0 +1,39 @@
+body {
+    background-color: #0c5a7b;
+    font-family:"Sofia";
+    height: 100%;
+}
+
+.wrapper {
+    width: 800px;
+    margin:30px auto;
+    text-align: center;
+    color: #031d5e;
+    font-size: 50px;
+}
+#seconds, #milliseconds, #colon, #minutes, #dot {
+    font-size: 90px;
+    color: aqua;
+    font-family: fantasy;
+}
+h1 {
+    border: 9px groove #3688a6;
+}
+
+#start-btn, #stop-btn, #reset-btn {
+    background-color:#0c5a7b;
+    color: antiquewhite;
+    cursor: pointer;
+    border: solid 2px antiquewhite;
+    font-size: 35px;
+    padding:10px 10px;
+    width:200px ;
+    margin: 25px auto;
+}
+button:hover {
+    border: solid rgb(90, 90, 197);
+    color: antiquewhite;
+    background-color:#031d5e;
+    box-shadow: inset 0 0 15px -3px #c6e35f;
+    transition: 0.4s;
+}
