@@ -1,2 +1,3 @@
 # JavaScript-Stopwatch
-A very basic JavaScript project made by using HTML, CSS, Javascript
+A basic JavaScript project made by using HTML, CSS, Javascript.
+Helpful in understanding of implementation of logic in Javascript.
